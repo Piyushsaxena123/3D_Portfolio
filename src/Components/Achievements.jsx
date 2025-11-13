@@ -1,4 +1,4 @@
-import { achievements } from "../Constants";
+import { achievements } from "../constantstemp";
 
 const Achievements = () => {
   return (

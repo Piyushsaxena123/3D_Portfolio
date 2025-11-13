@@ -1,10 +1,8 @@
-import { Link } from "react-router-dom";
 import { VerticalTimeline, VerticalTimelineElement } from "react-vertical-timeline-component";
 import "react-vertical-timeline-component/style.min.css";
 
 import { CTA } from "../Components";
-import { projects } from "../Constants";
-import { arrow } from "../assets/icons";
+import { projects } from "../constantstemp";
 
 const Projects = () => {
   return (

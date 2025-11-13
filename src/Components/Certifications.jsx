@@ -1,5 +1,5 @@
-import { certifications } from "../constants";
 import { motion } from "framer-motion";
+import { certifications } from "../constantstemp";
 
 const Certifications = () => {
   return (
