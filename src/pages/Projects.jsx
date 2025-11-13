@@ -3,7 +3,7 @@ import { VerticalTimeline, VerticalTimelineElement } from "react-vertical-timeli
 import "react-vertical-timeline-component/style.min.css";
 
 import { CTA } from "../Components";
-import { projects } from "../constants";
+import { projects } from "../Constants";
 import { arrow } from "../assets/icons";
 
 const Projects = () => {
