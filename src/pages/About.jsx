@@ -4,7 +4,7 @@ import {
 } from "react-vertical-timeline-component";
 
 import { CTA } from "../Components";
-import { experiences, skills, education } from "../constants";
+import { experiences, skills, education } from "../Constants";
 import Achievements from "../Components/Achievements";
 import Certifications from "../Components/Certifications";
 
