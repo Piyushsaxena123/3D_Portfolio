@@ -1,4 +1,4 @@
-import { meta, shopify, leetcode, starbucks, tesla, autodesk, bluestock, aspirenex, glbajaj, sss, Hackfest, microsoft1, gfg, gssoc, Kotlin } from "../assets/images";
+import { meta, shopify, leetcode, starbucks, tesla, autodesk, rootx, aspirenex, glbajaj, sss, Hackfest, microsoft1, gfg, gssoc, Kotlin } from "../assets/images";
 import {
     car,
     contact,
@@ -29,6 +29,7 @@ import {
     c,
     cplus,
     flask,
+    typescript,
 } from "../assets/icons";
 
 export const skills = [
@@ -123,8 +124,8 @@ export const skills = [
   },
  
   {
-    imageUrl: flask, 
-    name: "Flask",
+    imageUrl: typescript, 
+    name: "TypeScript",
     type: "Backend",
   }
 
@@ -148,14 +149,14 @@ export const experiences = [
     // },
 
         {
-        title: "SDE Intern",
-        company_name: "Bluestock Fintech",
-        icon: bluestock,
+        title: "Web Developer Intern",
+        company_name: "Rootx Private Limited",
+        icon: rootx,
         iconBg: "#2563eb",
-        date: "October 2025 - November 2025",
+        date: "September 2025 - November 2025",
         points: [
-            "Designed scalable systems with responsive front-ends and RESTful APIs, reducing integration time by 30% and improving system reliability across deployments",
-            "Collaborated with back-end engineers and senior developers to enhance user experience, resulting in a 20% boost in engagement and improved satisfaction ratings"
+          "  Created and hosted user-friendly websites on WordPress, making sure they were responsive and easy to navigate, which helped clients get their sites online faster and with fewer issues."
+           ,"Built complete e-commerce websites with features like Home Page , Blog Page, Contact Page, product pages improving the overall shopping experience and helping clients increase their online sales."
         ],
     },
     {
@@ -184,7 +185,7 @@ export const education = [
         iconBg: "#E6F3FF"
     },
     {
-        title: "12th Boards (C.B.S.E)",
+        title: "10th/12th Boards (C.B.S.E)",
         school: "Silver Shine School",
         date: "April 2022 - May 2023",
         points: [
@@ -229,9 +230,9 @@ export const projects = [
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'Full Stack Threads Clone',
-        description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-        link: 'https://github.com/adrianhajdin/threads',
+        name: 'Full Stack Mock Interview Platform',
+        description: 'Developed an AI-powered mock interview platform designed to assist candidates in preparing for Frontend, Backend, and various technical roles. The system intelligently conducts real-time interviews, asks role-specific questions, evaluates answers, and provides personalized feedback to help users improve their technical and communication skills.',
+        link: 'https://github.com/Piyushsaxena123/ai-mock-interview',
     },
     {
         iconUrl: car,
@@ -293,16 +294,17 @@ export const achievements = [
         description:
            "Contributed to open-source projects in both GSSoC 2024 and GSSoC 2025, collaborating with developers and mentors worldwide. Worked on impactful, beginner-friendly projects while strengthening skills in coding, version control, and real-world software development.",
         image: gssoc,
-        link: "https://www.linkedin.com/posts/rishi-varshney100_teameffort-teamappreciation-dreamteam-activity-7186058765882789888-ZrHN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAECquX8B4vRUvzKzmRbFU1v90k3eb4lKdlo",
+        link: "https://www.linkedin.com/posts/piyush-saxena-eng_gssoc25-girlscript-campusambassador-activity-7344007499764625409-gpMP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEY6kDQBSFB-bKl5MUgzLq26CRiAfNjKZIc",
     },
 ];
 
 export const certifications = [
-    "Google Cloud - Generative AI",
-    "Google for Developers - Fundamentals of AIML",
-    "Palo Alto - Cyber security",
-    "Let's Upgrade - Web Development",
-    "Unstop - Asian Paints: Mosaic 2023",
-    "Coding Ninjas - Introduction to DSA in C++",
-    "Amazon AWS - Cloud Foundation and Architecting"
+    "Amazon AWS - Cloud Foundation and Architecting ",
+    "Google Summer of Code – Gsoc Contributor",
+    "Nestle – Nestle E-Learning 2024 ",
+    "Infosys Springboard - Introduction to Data Science",
+    "Deloitte - Data Analytics Job Simulation ",
+    "Cisco - Cyber Security",
+    "Infosys Springboard - Introduction to Artificial Intelligence ",
+    "Soarx – Navigating Campus Placements in Niral"
 ];

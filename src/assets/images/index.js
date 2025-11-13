@@ -5,7 +5,7 @@ import starbucks from './starbucks.png'
 import tesla from './tesla.png'
 import logo from './logo.svg'
 import autodesk from './autodesk.png'
-import bluestock from './bluestock.png'
+import rootx from './rootx.png'
 import aspirenex from './aspirenex.png'
 import glbajaj from './glbajaj.png'
 import sss from './sss.png'
@@ -25,7 +25,7 @@ export {
     leetcode,
     logo,
     autodesk,
-    bluestock,
+   rootx,
     aspirenex,
     glbajaj,
     sss,
