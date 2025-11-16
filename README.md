@@ -1,15 +1,7 @@
-Here is the **updated README** with your new final section added in a clean, professional style.
-I’ve integrated it naturally at the bottom of the README, maintaining formatting consistency and clarity.
-
----
-
 # 🚀 3D Developer Portfolio Website (React + Three.js)
 
 <div align="center">
   <br />
-  <img src="./banner.png" alt="3D Portfolio Banner" width="100%" />
-  <br /><br />
-
   <div>
     <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
@@ -112,32 +104,6 @@ Expandable for theme support.
 
 ---
 
-## ⚡ Quick Start<br/>
-
-### Clone Repository
-
-```bash
-git clone https://github.com/Piyushsaxena123/3D_Portfolio
-cd 3D_Portfolio
-```
-
-### Install Dependencies
-
-```bash
-npm install
-```
-
-### Run Dev Server
-
-```bash
-npm run dev
-```
-
-Open in browser:
-👉 [http://localhost:5173/](http://localhost:5173/) <br/>
-
----
-
 ## ☁️ Deployment<br/>
 
 This project is deployed on **Vercel**.
@@ -151,24 +117,6 @@ Live Link: [https://piyush-3-d-portfolio.vercel.app/](https://piyush-3-d-portfol
 📦 **GitHub Repository:** [https://github.com/Piyushsaxena123/3D_Portfolio](https://github.com/Piyushsaxena123/3D_Portfolio) <br/>
 
 ---
-
-## ✨ Additional Customizations Available<br/>
-
-If you want to enhance this project further, I can also create:
-
-✨ **A custom banner**
-A sleek modern banner designed specifically for your portfolio brand.
-
-✨ **A 3D preview GIF**
-Showcase your 3D island/fox in motion using a high-quality animated preview.
-
-✨ **Improved About Me content**
-Professionally written, recruiter-friendly "About Me" section.
-
-✨ **Skills section with icons**
-Modern skill grid including icons for React, JS, Git, Python, and more.
-
-✨ **Dark mode version**
 Full dark/light theme system with smooth theme transitions.
 
 ---
