@@ -18,7 +18,7 @@
 
 ## 👤 Author<br/>
 
-**Developed by:** **Piyush Saxena**<br/>
+**Developed by:** **Piyush Saxena.**<br/>
 🔗 GitHub: [https://github.com/Piyushsaxena123](https://github.com/Piyushsaxena123) <br/>
 🌐 Live Website: [https://piyush-3-d-portfolio.vercel.app/](https://piyush-3-d-portfolio.vercel.app/) <br/>
 
